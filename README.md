@@ -8,7 +8,7 @@ Business problem: Forcasting future sales of outlet stores based on informationa
 
 Source:[The source of the dataset](https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/) 
 
-Data: That data used can be found in the link. (/Users/youngjinjang/Desktop/DOJO coding information/week 1/sales_predictions.csv). This data provides outlet sizes, year established and tier of outlets. Along with that it provides the data on the items being sold with relevent data to use on each item.
+Data: That data used can be found in the link (/Users/youngjinjang/Desktop/DOJO coding information/week 1/sales_predictions.csv). This data provides outlet sizes, year established and tier of outlets. Along with that it provides the data on the items being sold with relevent data to use on each item.
 
 Methods:
 
