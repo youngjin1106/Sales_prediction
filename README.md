@@ -18,6 +18,8 @@ Methods:
 - Then used preprocessing to prepare the data to be used in Machine Learning.
 - After preprocessing ran the data through a Linear Regression and Decision Tree.
 - Evaluated the models with MAE, MSE, RMSE and R^2 metrics to determine best model.
+
+Outlet Sales:
 ![](https://user-images.githubusercontent.com/109550293/202284206-7d6d048f-7eb5-4a68-9800-1fa581a66389.png)
 
 Heatmap Correlation
