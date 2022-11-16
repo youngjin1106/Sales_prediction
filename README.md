@@ -23,7 +23,10 @@ Outlet Sales:
 
 ![](https://user-images.githubusercontent.com/109550293/202284206-7d6d048f-7eb5-4a68-9800-1fa581a66389.png)
 
-Heatmap Correlation
+Heatmap Correlation:
+
+![](https://user-images.githubusercontent.com/109550293/202284796-f7beaf70-179c-4396-9dc3-4ef79876e080.png)
+
 
 Model: The final model was a linear regression. This method was able to produce a 67% of the data to be used to show the sales prediction. This gave us the best error out of the two models and allows us to predict the sales of outlet stores.
 
