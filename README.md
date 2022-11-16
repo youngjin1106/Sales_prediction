@@ -33,3 +33,5 @@ Model: The final model was a linear regression. This method was able to produce 
 Recommendations: My recommendation is that the item mrp has the biggest correlation with the sales. The outlet size doesn't necessarily correlate to bigger sales. Focus more on the itmes you are selling rather then the size of the store.
 
 Lmitiations & Next Steps: I have only begun my machine learning and I am working on the next steps of this. I plan on learning new methods and returning to this project to further the data and come up with more solutions on how to predict sales.
+
+For futher information: For any additional questions, please contact youngjang96@gmail.com
