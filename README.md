@@ -18,3 +18,10 @@ Methods:
 - Then used preprocessing to prepare the data to be used in Machine Learning.
 - After preprocessing ran the data through a Linear Regression and Decision Tree.
 - Evaluated the models with MAE, MSE, RMSE and R^2 metrics to determine best model.
+
+
+Model: The final model was a linear regression. This method was able to produce a 67% of the data to be used to show the sales prediction. This gave us the best error out of the two models and allows us to predict the sales of outlet stores.
+
+Recommendations: My recommendation is that the item mrp has the biggest correlation with the sales. The outlet size doesn't necessarily correlate to bigger sales. Focus more on the itmes you are selling rather then the size of the store.
+
+Lmitiations & Next Steps: I have only begun my machine learning and I am working on the next steps of this. I plan on learning new methods and returning to this project to further the data and come up with more solutions on how to predict sales.
